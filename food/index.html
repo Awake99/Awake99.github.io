@@ -1,0 +1,78 @@
+---
+layout: default
+title: Food
+---
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+  <title> {% if page.title %} {{ page.title }} | {% endif %} The BASIS Gazette </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/bootstrap.css"  type="text/css"/>
+  <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+</head>
+<style>
+ul.entries li {
+  position: relative;
+  padding: 20px;
+  list-style-type: none;
+  min-height: 320px;
+  background: #D6D5D5;
+  border-radius: 5px;
+}
+ 
+ul.entries img {
+  width: 30%;
+}
+ 
+ul.entries li h3 {
+  position: absolute;
+  top: 2%;
+  left: 35%;
+  font-size: 1.5em;
+}
+ul.entries a {
+  color: black;
+}
+ul.entries a:hover {
+  color: #2E8B57;
+}
+.line2 {
+  color: black;
+    border-width: 2px;
+    border-color: black;
+    margin: 0px;
+}
+article {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  font-size: 1em;
+}
+</style> 
+<body>
+  <div class="container">
+    <div class="row-fluid">
+<section class="content">
+  <h2 style="text-align:center;"><b>Food</b></h2>
+</section>
+ 
+<ul class="entries">
+  {% for post in site.categories.food %}
+ 
+  <li>
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" style="border-radius:5px;"/>
+      <h3>{{ post.title }}</h3>
+    </a>
+    <article>{{ post.excerpt }}</article>
+  </li>
+  <br>
+  <!--<hr class="line2">-->
+  {% endfor %}
+</ul>
+</div>
+</div>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src=”js/bootstrap.js”></script>
+</body>
