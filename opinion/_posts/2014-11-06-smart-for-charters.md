@@ -1,5 +1,6 @@
 ---
 layout: article
+image: /img/school.jpg
 title: How Smart is it for our Charter?
 excerpt: "It’s lunch, and your classmates have just finished making an announcement about the upcoming Yule Ball. You can already picture all of your dressed-up friends; you can hear the music; you can taste the sugary refreshments."
 ---

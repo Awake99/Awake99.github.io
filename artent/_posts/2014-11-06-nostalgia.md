@@ -1,5 +1,6 @@
 ---
 layout: article
+image: /img/nostalgia.jpg
 title: Nostalgia Revisited
 excerpt: "You’re seven again, or eight, or ten, or twelve—but those details don't matter. What does matter is the cartridge grasped in your second-third-fourth-grader hands. It is clunky and inelegant against today’s standards, but a marvel nonetheless."
 ---
