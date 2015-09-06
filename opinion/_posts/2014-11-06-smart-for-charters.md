@@ -20,4 +20,4 @@ BASIS administration implemented SMART for Charters at the request of their exte
 
 As a result, we should not completely bash SMART for Charters. While the school’s intent in adopting it was to promote efficiency, the main consideration should be how students react to this system. On the whole, we do not seem very inclined to put in the effort to pre-pay. Unfortunately, sometimes, the consequences are that our student body is unable to come together like we used to at school events prior to the domination of SMART for Charters. Until we devise a solution to this perplexing problem, some students will have to keep bombarding the rest of us with announcements during lunch until we are annoyed enough to finally submit to our charter’s smart payment system.
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">

@@ -27,6 +27,6 @@ BASIS Scottsdale seized first in the lot: first as the varsity team and first as
 
 Likewise, the BASIS Scottsdale Quiz Bowl team itself seems to have exploded onto the tournament scene over the past few years, cleaning up awards at competitions. Hopefully, the team’s upward trajectory will continue as they head to the National Quiz Bowl Championship. 
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">
 
 <h6>The Quiz Bowl Tournament Director (left) presents BASIS Scottsdale "A" Team Quiz Bowl Captain Alex Cohen (right) with the highest-scoring player trophy and the "Power Plaque."</h6>

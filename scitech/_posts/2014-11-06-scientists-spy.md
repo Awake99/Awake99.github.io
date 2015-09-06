@@ -16,4 +16,4 @@ Lu and his team performed several experiments to test the scope of SCRIBE and th
 
 Because SCRIBE provides an indication of the myriad of different interactions that a cell undergoes daily, the program allows scientists to determine how one cell develops differently in comparison to another cell. Lu and the rest of the scientific community are incredibly excited about this latest development and its potential to affect our understanding of cells in the future.
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">

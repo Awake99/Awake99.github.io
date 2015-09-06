@@ -18,4 +18,4 @@ Even if this specific type of mischief of the political process was a first-time
 	
 Other than providing considerable fodder for some great wordplay, this situation also is a microcosm for the behavior of those whom we trust to run our great country. As Americans, we are learning to blow off the incompetence of our elected officials. Perhaps it is time to end this trend and elect officials who, rather than argue about fans, are fans of improving America.
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">

@@ -26,4 +26,4 @@ Why is Windows 10 not Windows 9?
 	
 In other words, they assumed that all versions of Windows beginning with “Windows 9” would refer to either 95 or 98...unless, of course, there’s actually a “Windows 9.” Considering that many of the applications written for Windows still retain this legacy code, it would have been a nightmare to name the newest version of Windows as “Windows 9.”
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">

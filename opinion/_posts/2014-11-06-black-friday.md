@@ -18,4 +18,4 @@ Black Friday, although it is a tradition, is merely another way for stores to ma
 
 Black Friday is a complete waste of time, energy and money. Unfortunately, Black Friday symbolizes the modern American consumer mindset. 
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">

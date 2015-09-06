@@ -24,4 +24,4 @@ Much confusion swirls about what elements allegedly contain the anti-American bi
 
 Perhaps the debate can be summed up with a bon mot from Napoleon Bonaparte: "History is a version of past events that people have decided to agree upon." Which version of American history−the school board's American exceptionalism or the College Board's more complex portrait−should be taught in American schools? The answer arouses passions on both sides. However, the vigorous exercise of constitutional rights by the Colorado students is putting into practice fundamental lessons of American citizenship: peaceful protest to question authority and effectuate change. Perhaps the more important question is whether any one entity--be it the College Board or the Jefferson County School Board--should unilaterally decide the answer. 
 
-<hr style="color:black; border-width:2px; border-color:black; margin: 0px; margin-top: 30px; padding-bottom: 10px;">
+<hr style="border-color:#7D7D7D;height:0.5px;">
