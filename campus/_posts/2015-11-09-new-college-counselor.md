@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/counselor.png
+image: /img/counselor.jpg
 title: New College Counselor
 excerpt: "As the senior class has almost doubled this year at BASIS Scottsdale, the need for college counseling is correspondingly twice as great. Consequently, BASIS Scottsdale has hired a new college counselor, Ms. Conner, to join Ms. Mitrovich to better serve seniors during their college application odysseys."
 ---
