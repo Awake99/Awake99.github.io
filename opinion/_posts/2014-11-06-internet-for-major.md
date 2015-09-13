@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/Balance.jpg
+image: /img/Balance.png
 title: Internet Advice for Major Decisions
 excerpt: "Recently, my family was celebrating my brother’s entrance into college. At the end of the buffet, my brother's fortune cookie posed the following ominous warning: “not having a goal is worse than not reaching your goals.”"
 ---

@@ -2,7 +2,7 @@
 layout: article
 image: /img/Stairway.png
 title: One-Way Stairs
-excerpt: "Stairs: they have their ups and downs. But what many BASIS Scottsdale students still don’t realize after two years is that one of our stairwells only has ups, and the other only has downs. They are even conveniently labeled “Up Stairs” and “Down Stairs.""
+excerpt: "Stairs - they have their ups and downs. But what many BASIS Scottsdale students still don’t realize after two years is that one of our stairwells only has ups, and the other only has downs. They are even conveniently labeled “Up Stairs” and “Down Stairs.""
 ---
 
 <h2>One-Way Stairs</h2>
