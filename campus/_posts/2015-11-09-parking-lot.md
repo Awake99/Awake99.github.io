@@ -1,5 +1,6 @@
 ---
 layout: article
+image: /img/revenge.jpg
 title: Revenge of the Parking Lot
 excerpt: "While we can choose our class schedules, clean up the bathrooms, and teach students to walk appropriately in the hallways, one aspect of the BASIS Scottsdale experience appears unchangeable: our anxiety-evoking parking lot."
 ---
