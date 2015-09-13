@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/siblings.png
+image: /img/siblings.jpg
 title: The Interview - Sibling Edition
 excerpt: "Recently, I interviewed Mrs. Haag (the Honors Language, AP Research, and AP Seminar teacher) along with her brother Mr. Holt (the new P.E. teacher), to learn more about the dynamics of a sibling relationship in the work place."
 ---

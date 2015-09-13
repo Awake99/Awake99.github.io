@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/phones.png
+image: /img/phones.jpg
 title: The Cure
 excerpt: "Bam! My heart slams against my ribs as my precious phone slams against the harsh, unforgiving ground. In some strange way, time itself seems to stop."
 ---

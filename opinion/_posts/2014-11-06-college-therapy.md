@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/college.png
+image: /img/college.jpg
 title: College Therapy?
 excerpt: "BASIS Scottsdale does not need a college counselor; it needs a college therapist. Our perception of high school as a four-year hurdle to jump before college is insane."
 ---

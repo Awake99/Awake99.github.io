@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/GazetteOnline.png
+image: /img/GazetteOnline.jpg
 title: Going Online
 excerpt: "The BASIS Scottsdale Gazette has joined the leagues of many of the world’s biggest newspaper publications embracing technological advances with open arms. Yes, that’s right. The BASIS Scottsdale Gazette is going online."
 ---

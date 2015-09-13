@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/Stairway.png
+image: /img/Stairway.jpg
 title: One-Way Stairs
 excerpt: "[T]hey have their ups and downs. But what many BASIS Scottsdale students still don’t realize after two years is that one of our stairwells only has ups, and the other only has downs..."
 ---
