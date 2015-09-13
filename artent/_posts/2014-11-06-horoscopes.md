@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/horoscopes.png
+image: /img/Horoscopes.png
 title: Horoscopes
 excerpt: "Get some insight into your personal horoscopes!"
 ---
