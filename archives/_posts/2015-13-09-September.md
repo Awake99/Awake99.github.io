@@ -1,4 +1,4 @@
 ---
 layout: default
-title: <a href="/img/September.pdf">September 2015 Issue</a>
+title: <a href="/img/hallways.jpg">September 2015 Issue</a>
 ---
