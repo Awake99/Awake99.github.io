@@ -1,0 +1,45 @@
+---
+layout: default
+title: Archives
+---
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+  <title> {% if page.title %} {{ page.title }} | {% endif %} The BASIS Gazette </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/bootstrap.css"  type="text/css"/>
+  <link rel="stylesheet" href="/css/bootstrap-responsive.css">
+</head>
+<style>
+  ul.entries li {
+    list-style-type: none;
+  }
+  ul.entries a:hover {
+    color: #2E8B57;
+  }
+</style>
+<body>
+<div class="container"> 
+<section class="content">
+  <h2 style="text-align:center;"><b>Archives</b></h2>
+ 
+  <p style="text-align:center;">Check out all of our previous editions:</p>
+</section>
+ 
+<ul class="entries" style="color:black;">
+  {% for post in site.categories.archives %}
+ 
+  <li>
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}" />
+      <h3>{{ post.title }}</h3>
+    </a>
+  </li>
+ 
+  {% endfor %}
+</ul>
+</div>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+  <script src=”js/bootstrap.js”></script>
+</body>
