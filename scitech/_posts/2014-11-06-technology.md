@@ -1,23 +1,27 @@
 ---
 layout: article
-image: /img/phones.jpg
-title: The Cure
-excerpt: "Bam! My heart slams against my ribs as my precious phone slams against the harsh, unforgiving ground. In some strange way, time itself seems to stop."
+image: /img/Apples_Iphone_6s.png
+title: Apple’s iPhone 6S Success
+excerpt: "From the back pocket of our jeans to the front row of the movie theatre, they have practically taken over our most inter-connected world. From snapping the most poised selfie to creating new soundtracks, they have infiltrated nearly every aspect of our lives, and show no signs of stopping soon."
 ---
 
-<h2>The Cure to a Technological Epidemic</h2>
-<h4>By Divya Vatsa</h4>
+<h2>Apple’s iPhone 6S Success</h2>
+<h4>By Jayati Sharma</h4>
 
-Bam! My heart slams against my ribs as my precious phone slams against the harsh, unforgiving ground. In some strange way, time itself seems to stop. And yet I cannot seem to move in time to rescue my phone from its tragic demise. Now, every time I look at my screen, those delicate cracks glare back at me, and I am overcome with that same sense of defeat yet again.
+From the back pocket of our jeans to the front row of the movie theatre, they have practically taken over our most inter-connected world. From snapping the most poised selfie to creating new soundtracks, they have infiltrated nearly every aspect of our lives, and show no signs of stopping soon. And the iPhone, perhaps the biggest deal of the smartphone generation, continues to parade new features every year. 
 
-Just yesterday, it seemed as though I would have to live with those cracks until my next iPhone upgrade. But it seems as if the world of science has taken pity on us clumsy phone users. This past year, French materials scientist Ludwik Leibler from the ECSPI Institute in Paris has created a new class of plastics called vitrimers or self-healing plastics. Earning him the European Patent Office’s 2015 Inventor Award, Leibler’s research pioneers a future for everlasting plastics. 
+On Wednesday, September 9, Apple CEO Tim Cook unveiled the company’s latest line of shiny, new products, among which were the iPad Pro, new Apple TV, iWatch OS 2, and, of course, the coveted new iPhone 6S. 
 
-So what is the science behind this new technology? Leibler first decided to embark on this research after being inspired by T-1000 in Transformers 2. He began to study two existing families of plastics: thermoplastics and thermosets. The former has properties that allow it to change shape when heated. However, the limitations are that once cooled, its new shape become permanent. Thermosets, on the other hand, are unique in that their shape cannot be changed in heat. 
+Labeled as the “most popular” smartphone to have vibrated on the planet, the iPhone (even with its size adjustments and operating system transformations) seldom disappoints. Though released in an all-new rose gold color, the newest model, largely consistent in size when compared to its iPhone 6 counterpart, exhibits more software than hardware improvements. 
 
-Using this contrast as his foundation, Leibler set out to combine certain properties of each family while adding his own features. Leibler was able to capture the qualities of the plastics to be reheated and reshaped an infinite number of times. Then he added other important properties, such as durability and dimensional stability. The result? Leibler’s vitrimers.
+The new iPhone boasts 3D touch, an innovative technology that allows users to leverage finger pressure on the phone screen in systematic commands. A light push on the screen enables the “Peek” feature, whereby one views a preview screen for a picture, text, email, webpage, social media post, etc. Pressing the screen only slightly harder, the “Pop” feature is enabled, taking users to the full screen view of the selected material. With the ability to detect the slightest changes in distance between the cover glass and the phone’s backlight, 3D touch provides an innovative way to increase efficiency on the iPhone. Though the capacitive pressure sensors add weight to the model, the extra clicks and swipes that 3D touch saves us may just be worth it. 
 
-When asked about the potential of vitrimers, the French scientist shared the endless possibilities and predicted a very bright future. He aims to release this new product to cars, planes, and other gadgets that are susceptible to damage and cracks. And while it will be a few years before we get to see this revolutionary technology in the market, I am looking forward to a future where my anxiety will not be due to dropping my phone.
+Users can also shoot video in 4K, a resolution four times that of 1080p HD. The phone’s 12-megapixel iSight camera prides itself on being able to take the clearest, sharpest, fullest pictures yet. 
+
+Also featured is the fun, new Live Photos functionality that turns captured photos into small videos, kind of contextualizing the moment in time. With the feature turned on, users can press a picture to reveal the movements both immediately before and after the photo was taken. 
+
+Though the latest model does not feature any particular groundbreaking changes, such as those seen in the iPhone 5 or 6, its subtleties enhance the inherent simplicity Apple strives to breathe through all its products, making the 6s a success.
 
 <hr style="border-color:#7D7D7D;height:0.5px;">
 
-<h6> Two cracked iPhones, a heart wrenching sight for iPhone users everywhere </h6>
+<h6> Introducing the iPhone 6S. </h6>

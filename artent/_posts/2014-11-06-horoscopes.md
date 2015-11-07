@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/Horoscopes.jpg
+image: /img/Horoscopes.png
 title: Horoscopes
 excerpt: "Get some insight into your personal horoscopes!"
 ---
@@ -8,63 +8,77 @@ excerpt: "Get some insight into your personal horoscopes!"
 <h2>Horoscopes</h2>
 <h4>By Molly Ono</h4>
 
+<b> Libra </b> (September 23-October 22)
+
+Stop posting selfies on Instagram! It is neither the time nor the place (and it never will be). 
+
+Spirit Meme: Doge
+
+<b> Scorpio </b> (October 23-November 21)
+
+Enjoy the heat while it lasts. Your fragile body probably can’t handle another 70 winter. 
+
+Spirit Meme: John Cena
+
+<b>Sagittarius</b> (November 22-December 21)
+
+You may think that you’re in love, but love can often be mistaken for indigestion, among other ailments. 
+
+Spirit Meme: Blue black white gold
+
+<b>Capricorn </b> (December 22-January 19)
+
+Applying to college is a lot like learning to swim: either way, you’re going to drown.
+
+Spirit Meme: Miley, what’s good? 
+
+<b> Aquarius </b> (January 20-February 18)
+
+Remember to set an alarm for the morning. And in class. And in the afternoon. You should probably stop falling asleep all of the time. 
+
+Spirit Meme: They crave that mineral
+
+<b> Pisces </b> (February 19-March 20)
+
+A rolling stone gathers no moss. Actually, does anyone actually gather moss? Harvesting it doesn’t seem very profitable. 
+
+Spirit Meme: The mitochondria is the powerhouse of the cell
+
+<b>Aries</b> (March 21-April 19)
+
+You need to find yourself. 
+Hopefully it’s not in a trashcan.
+
+Spirit Meme: Psych! That’s the wrong number!
+
+<b>Taurus</b> (April 20-May 20)
+
+Um, quit procrastinating. You’re welcome. 
+
+Spirit Meme: Who is she
+
+<b>Gemini</b> (May 21-June 21)
+
+You may or may not be forgetting to do something. Planners are helpful.
+
+Spirit Meme: One does not simply
+
+<b>Cancer </b> (June 22-July 22)
+
+Love thy neighbor. Not too much though—that’s creepy.
+
+Spirit Meme: *hacker voice* I’m in  
+
+<b>Leo</b> (July 23-August 22)
+
+This is the time to explore new things, new places, new people. Just remember, baby wipes are always helpful.
+
+Spirit Meme: Rare Pepe
+
 <b>Virgo</b> (August 23-September 22)
 
-Feeling stressed out already? Remember to keep long-term goals in mind, and be aware of when you may be burning out – you’re too special to be burnt to a crisp. 
+Treat yo’ self this month—you is kind, you is smart, you is important.
 
-
-<b>Libra </b>(September 23-October 22)
-
-You’re probably not getting enough sleep. Like, come on. 
-
-
-<b>Scorpio </b> (October 23-November 21)
-
-Your love life is a little lacking right now, but only you can fix it. Or, you can just focus on grades, an easy substitute. 
-
-
-<b>Sagittarius </b> (November 22-December 21)
-
-You’re too preoccupied with the things to come. Remember to be in the now, or the now will eat you up like a Chipotle burrito bowl. 
-
-
-<b>Capricorn </b> (December 23-January 19)
-
-Don’t neglect your friends! Being alone can have awesome health benefits, but you really shouldn’t be alone with your own thoughts. 
-
-
-<b>Aquarius </b> (January 20-February 18)
-
-You should definitely try something new. A sport, maybe, or a type of food. Definitely food. This is an excuse to eat more food. 
-
-
-<b>Pisces </b> (February 19-March 20)
-
-This is the month that you quit procrastinating. Hopefully. Maybe. Heck, maybe do it next month. 
-
-
-<b>Aries </b>(March 21-April 19)
-
-You know, sometimes you can just get yourself into a little too much trouble. Formulate back-up plans and complicated excuses now to give your future self a break. 
-
-
-<b>Taurus </b>(April 20-May 20)
-
-Reach out to that person you kind-of know, but not really. They might just be the perfect match for your brand of weird. 
-
-
-<b>Gemini </b> (May 21-June 21)
-
-They say cleanliness is next to godliness. You should probably get on that. 
-
-
-<b>Cancer </b>(June 22-July 22)
-
-Chill. Chilllllllll. 
-
-
-<b>Leo </b> (July 23-August 22)
-
-A tall, dark, (possibly) handsome stranger will soon enter your life. Do not forget the baseball bat. 
+Spirit Meme: Bye Felicia
 
 <hr style="border-color:#7D7D7D;height:0.5px;">
