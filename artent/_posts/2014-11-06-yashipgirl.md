@@ -18,6 +18,7 @@ Dear STRANDED:
 Now, that’s some food for thought! Personally, my lunch consists of finishing homework and “balling,” rather than interacting with friends. Isn’t that what lunch is truly for? Face-to-face interactions are overrated, and your Lit annotations aren’t getting any better. Seclude yourself upstairs and focus on building your college app for your true Ivy League destiny. 
 
 Of course, you could try a worse solution. Make new friends with people in your lunch period. Don’t worry about a lack of face-to-face time in our digital age. Connect with him/her over social media and make a conscientious effort to meet with him/her outside of school to study for a shared class or maybe even to relax at Scottsdale Fashion Square. 
+
 --Yash-ip Girl
 
 -----------------------------------------------------------------------
@@ -37,18 +38,27 @@ I always walk up and down the staircase with a friend, so we can talk, avoiding 
 
 -----------------------------------------------------------------------
 <i>Dear Yash-ip Girl, 
+
 I’d like to submit a question to you and talk to you in person. If only I knew who you were... 
 --CURIOUS</i>
+
 Dear CURIOUS:
+
 I’m sorry to let you down, but for the purposes of this column, it is imperative that I maintain my identity a secret. It’s the only way I’ll be able to provide just, unbiased answers to your most pressing questions.
+
 --Yash-ip Girl
 
 -----------------------------------------------------------------------
 <i>Dear Yash-ip Girl, 
+
 I’ve been looking for advice from a high school peer but I don’t know where to get advice that would be both amusing and germane. Any suggestions?
+
 --CONCERNED Reader </i>
+
 Dear CONCERNED:
+
 I would love to answer your questions. Email any questions to basisgazette@gmail.com. We’ll also have a form up on our website soon. 
+
 --Yash-ip Girl
 
 -----------------------------------------------------------------------
