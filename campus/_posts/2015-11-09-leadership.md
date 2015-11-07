@@ -1,8 +1,8 @@
 ---
 layout: article
-image: /img/GazetteOnline.jpg
+image: /img/leadership.jpg
 title: Leading a New Leadership
-excerpt: "The BASIS Scottsdale Gazette has joined the leagues of many of the world’s biggest newspaper publications embracing technological advances with open arms. Yes, that’s right. The BASIS Scottsdale Gazette is going online."
+excerpt: "It is common knowledge that BASIS Scottsdale’s very own Leadership Society knows how to throw a good party—Prom, of course. However, aside from T-shirt sales and Spirit Week, Leadership has not been extremely active in the BASIS community."
 ---
 
 <h2>Leading a New Leadership</h2>

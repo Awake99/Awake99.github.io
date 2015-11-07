@@ -1,8 +1,7 @@
 ---
 layout: article
-image: /img/supplies.jpg
+image: /img/yashipgirl.jpg
 title: Yash-ip Girl
-excerpt: "Similar to the recycling of fashion styles over the decades—something I learned after unwittingly borrowing my friend’s mom’s shirt—the popularity of school supplies also ebbs and flows."
 ---
 
 <h2>Yash-ip Girl</h2>

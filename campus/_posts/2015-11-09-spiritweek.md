@@ -1,8 +1,8 @@
 ---
 layout: article
-image: /img/GazetteOnline.jpg
+image: /img/spirit.jpg
 title: In the Spirit of Spirit Week
-excerpt: "The BASIS Scottsdale Gazette has joined the leagues of many of the world’s biggest newspaper publications embracing technological advances with open arms. Yes, that’s right. The BASIS Scottsdale Gazette is going online."
+excerpt: "More than just the advent of a scary, orange-blasted holiday, October signals the coming of BASIS’s famous Spirit Week."
 ---
 
 <h2>In the Spirit of Spirit Week</h2>
