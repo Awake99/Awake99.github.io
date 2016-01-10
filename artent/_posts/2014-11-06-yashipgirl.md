@@ -9,7 +9,7 @@ title: Yash-ip Girl
 
 <i>Dear Yash-ip Girl: 
 
-I recently tried out for the Varsity Basketball Team, but I didn’t even make Junior Varsity. For some reason, my skills did not translate to the court during tryouts, and other players overshadowed me. I am extremely disappointed because I thought I was good enough to make it since I play at lunch all the time. What should I do? </i>
+I recently tried out for the Varsity Basketball Team, but I didn’t even make Junior Varsity. For some reason, my skills did not translate to the court during tryouts, and other players overshadowed me. I am extremely disappointed because I thought I was good enough to make it since I play at lunch all the time. What should I do?
 
 --TRIED AND FAILED 
 
@@ -24,7 +24,7 @@ Firstly, passing is extremely overrated. If you are unsure about what to do, jus
 -----------------------------------------------------------------------
 <i>Dear Yash-ip Girl:
 
-I feel like my teacher is not preparing me for the AP Exam. He/she is fixated on one key figure in his/her class and repeatedly shows us documentaries on that person. Also, he/she tries to link all of his/her class to one theme. Somehow, he/she teaches for the entire class period, and I did not learn one thing pertinent to the AP. How can I fix this situation without offending anyone? </i>
+I feel like my teacher is not preparing me for the AP Exam. He/she is fixated on one key figure in his/her class and repeatedly shows us documentaries on that person. Also, he/she tries to link all of his/her class to one theme. Somehow, he/she teaches for the entire class period, and I did not learn one thing pertinent to the AP. How can I fix this situation without offending anyone? 
 
 --WORRIED about the AP 
 
