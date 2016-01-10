@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/movies.jpg
+image: /img/Personality.jpg
 title: Personality Quiz
 excerpt: "Considering the numerous personality quizzes on the Internet, deciding which ones are worth your time is difficult. Here is one more: a handy personality quiz to find out which personality quiz most fits your personality!"
 ---

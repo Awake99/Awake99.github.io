@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/A_New_PSAT.png
+image: /img/immigration.jpg
 title: The Immigration Debate
 excerpt: "Immigration is one of the most talked about issues on the campaign trail. The five key questions are facing politicians are the following:"
 ---
