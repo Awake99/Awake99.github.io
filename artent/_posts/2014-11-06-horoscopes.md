@@ -8,77 +8,52 @@ excerpt: "Get some insight into your personal horoscopes!"
 <h2>Horoscopes</h2>
 <h4>By Molly Ono</h4>
 
-<b> Libra </b> (September 23-October 22)
+Scorpio (October 24-November 22)
 
-Stop posting selfies on Instagram! It is neither the time nor the place (and it never will be). 
+Fall is already in full swing—if you haven’t had your first pumpkin spice latte of the season, congratulations! If you’ve already had fifty, then you should probably consult a physician, because that’s probably not healthy. 
 
-Spirit Meme: Doge
+Sagittarius (November 23-December 21)
 
-<b> Scorpio </b> (October 23-November 21)
+This is the month to try new things: with the changing of the leaves, roll over your own new leaf. Not that the cacti of Arizona change leaves or anything. 
 
-Enjoy the heat while it lasts. Your fragile body probably can’t handle another 70 winter. 
+Capricorn (December 22-January 20)
 
-Spirit Meme: John Cena
+Visiting colleges soon? Be sure to be polite, smile, and ask plenty of questions. Oh, and just ignore the tension of the room with all of the other applicants and their uber-competitive parents. 
 
-<b>Sagittarius</b> (November 22-December 21)
+Aquarius (January 21-February 18)
 
-You may think that you’re in love, but love can often be mistaken for indigestion, among other ailments. 
+Take this time to discover a new love in your life—a food that you might have always passed over, a person who you have never really considered. A facelift for your life can do wonders—without the dangerous complications of an actual facelift!
 
-Spirit Meme: Blue black white gold
+Pisces (February 19-March 20)
 
-<b>Capricorn </b> (December 22-January 19)
+You’re in that weird limbo of pumpkin: after the jack-o-lanterns of Halloween but before the pies of Thanksgiving. With all the sad and rotting pumpkins around, maybe do yourself a favor and opt for some decorative gourds—the warts on them are kind of cool. 
 
-Applying to college is a lot like learning to swim: either way, you’re going to drown.
+Aries (March 21-April 20)
 
-Spirit Meme: Miley, what’s good? 
+Wisdom teeth are a pain. Hopefully, your parent isn’t cruel enough to tape you hopped up on pain meds, and then upload the footage to the Internet. 
 
-<b> Aquarius </b> (January 20-February 18)
+Taurus (April 21-May 21)
 
-Remember to set an alarm for the morning. And in class. And in the afternoon. You should probably stop falling asleep all of the time. 
+So apparently Taylor Swift’s “Bad Blood” is not written about fellow songstress Katy Perry. Hurry, this is a divine sign to break up with your own frenemies before they too throw you under the public bus. 
 
-Spirit Meme: They crave that mineral
+Gemini (May 22-June 21)
 
-<b> Pisces </b> (February 19-March 20)
+Stop avoiding the problem and do the darn work—your future self will be getting plenty of sleep because of it. And—who are you kidding?—you need all the sleep you can get.  
 
-A rolling stone gathers no moss. Actually, does anyone actually gather moss? Harvesting it doesn’t seem very profitable. 
+Cancer (June 22-July 22)
 
-Spirit Meme: The mitochondria is the powerhouse of the cell
+Video games sucking all of your time away? League of Legends? Mortal Kombat? Even the beloved Smash Bros.? Just remember to spend time with loved ones: invite them to be pummeled by your almighty digital prowess every once in a while.
 
-<b>Aries</b> (March 21-April 19)
+Leo (July 23-August 22)
 
-You need to find yourself. 
-Hopefully it’s not in a trashcan.
+This is the time for you to branch out and look for a job. More work, more cash, more experience, more cash…it’s basically a win-win.
 
-Spirit Meme: Psych! That’s the wrong number!
+Virgo (August 23-September 23)
 
-<b>Taurus</b> (April 20-May 20)
+College visits can be taxing, so visit the school’s cafeteria to refuel. If the food is crappy, then don’t go to that school. Like, don’t even consider it. 
 
-Um, quit procrastinating. You’re welcome. 
+Libra (September 24-October 23) 
 
-Spirit Meme: Who is she
-
-<b>Gemini</b> (May 21-June 21)
-
-You may or may not be forgetting to do something. Planners are helpful.
-
-Spirit Meme: One does not simply
-
-<b>Cancer </b> (June 22-July 22)
-
-Love thy neighbor. Not too much though—that’s creepy.
-
-Spirit Meme: *hacker voice* I’m in  
-
-<b>Leo</b> (July 23-August 22)
-
-This is the time to explore new things, new places, new people. Just remember, baby wipes are always helpful.
-
-Spirit Meme: Rare Pepe
-
-<b>Virgo</b> (August 23-September 22)
-
-Treat yo’ self this month—you is kind, you is smart, you is important.
-
-Spirit Meme: Bye Felicia
+Now is the time to revisit an interest you might have dropped a while ago: keeping a journal, break dancing, eating a diet of only Gushers. Reflect on the inner turmoil of your childhood to bring happiness to the present.
 
 <hr style="border-color:#7D7D7D;height:0.5px;">

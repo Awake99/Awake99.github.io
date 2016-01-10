@@ -9,55 +9,32 @@ title: Yash-ip Girl
 
 <i>Dear Yash-ip Girl: 
 
-I feel that my friend and I are drifting apart this year. Now that we have different lunch periods, we never hang out, and I miss him/her greatly. What can I do to become close with him/her again?
+I recently tried out for the Varsity Basketball Team, but I didn’t even make Junior Varsity. For some reason, my skills did not translate to the court during tryouts, and other players overshadowed me. I am extremely disappointed because I thought I was good enough to make it since I play at lunch all the time. What should I do?
 
---STRANDED in a Sea of Friendship </i>
+--TRIED AND FAILED </i>
 
-Dear STRANDED:
+Dear TRIED,
 
-Now, that’s some food for thought! Personally, my lunch consists of finishing homework and “balling,” rather than interacting with friends. Isn’t that what lunch is truly for? Face-to-face interactions are overrated, and your Lit annotations aren’t getting any better. Seclude yourself upstairs and focus on building your college app for your true Ivy League destiny. 
+I know this will be tough to rebound from, but don’t get too down on yourself. I’m sure you would’ve been a steal. There are only 12 spots, and you may have just had an off day. If you care about basketball and want to improve for next year, then definitely talk to the coaches about what aspect of your game you should improve on. They’ll assist you. However, I will give you some coaching here on the basketball basics.
 
-Of course, you could try a worse solution. Make new friends with people in your lunch period. Don’t worry about a lack of face-to-face time in our digital age. Connect with him/her over social media and make a conscientious effort to meet with him/her outside of school to study for a shared class or maybe even to relax at Scottsdale Fashion Square. 
+Firstly, passing is extremely overrated. If you are unsure about what to do, just throw the ball toward the basket—it’ll probably go in. To perfect the release of your shot, maximize horizontal movement, use both hands, and spread your arms out to the side as you follow through. Another basketball fundamental to keep in mind is to always trash-talk. Find something to insult about your opponent, and go on and on about it. Finally, just keep saying the word “ball” and its derivatives, like “baller” and “ballin’” (never pronounce the ‘g’). Eventually, people will think you are good. Hope this helps!
 
 --Yash-ip Girl
 
 -----------------------------------------------------------------------
 <i>Dear Yash-ip Girl:
 
-When I walk up the stairs, I don’t know where to look. If I look straight ahead, I feel creepy. If I look up, I feel detached and run the risk of tripping. And of course, I cannot look down, since I am an alpha male.
+I feel like my teacher is not preparing me for the AP Exam. He/she is fixated on one key figure in his/her class and repeatedly shows us documentaries on that person. Also, he/she tries to link all of his/her class to one theme. Somehow, he/she teaches for the entire class period, and I did not learn one thing pertinent to the AP. How can I fix this situation without offending anyone?
 
---STAIRED and Afraid </i>
+--WORRIED about the AP </i>
 
-Dear STAIRED:
+Dear WORRIED, 
 
-Even I don’t know where to stare going up the stairs. To paraphrase fellow columnist Trey Connelly, stairs have their ups and downs, especially when you use the stairs. 
+Even though I can understand your frustration, I think you might be blaming your teacher too early here. Each teacher offers his or her own perspective on a subject, allowing you to look at life through another perspective. Once you learn his/her vernacular in the class, you will learn to appreciate your teacher. You make have to work harder at home, but at the end of the year you will have a unique perspective on the subject.
 
-I always walk up and down the staircase with a friend, so we can talk, avoiding the awkward scenario you described. Also, going with a friend can allow you to assert your dominance over him/her, achieving your alpha male desires. If you do chose to use this advice, make sure you walk carefully. That is, don’t trip. Though your well-being may be awarded some importance, falling downwards in the middle of the staircase would yield greater problems, specifically impeding the “flow.”
+However, if you are that worried, then your best strategy is to have a private meeting with the teacher and express your concern. Most teachers—if you tell them honestly but respectfully (e.g., don’t be as aggressive as Napoleon conquering Europe) how you feel—will want to improve their class. Their ultimate goal is for their students to succeed. Avoiding the problem until April may be the path of least resistance, but it is definitely not the best option. 
 
---Yash-ip Girl
-
------------------------------------------------------------------------
-<i>Dear Yash-ip Girl, 
-
-I’d like to submit a question to you and talk to you in person. If only I knew who you were... 
---CURIOUS</i>
-
-Dear CURIOUS:
-
-I’m sorry to let you down, but for the purposes of this column, it is imperative that I maintain my identity a secret. It’s the only way I’ll be able to provide just, unbiased answers to your most pressing questions.
-
---Yash-ip Girl
-
------------------------------------------------------------------------
-<i>Dear Yash-ip Girl, 
-
-I’ve been looking for advice from a high school peer but I don’t know where to get advice that would be both amusing and germane. Any suggestions?
-
---CONCERNED Reader </i>
-
-Dear CONCERNED:
-
-I would love to answer your questions. Email any questions to basisgazette@gmail.com. We’ll also have a form up on our website soon. 
+If your teacher refuses to change, then don’t make excuses. You have the power in your learning. Start preparing on your own for the AP. Get a prep book earlier than normal. Outline the chapters in a textbook. Look for interesting teachers who upload their lectures online. Don’t be afraid to be creative. Good luck!
 
 --Yash-ip Girl
 
