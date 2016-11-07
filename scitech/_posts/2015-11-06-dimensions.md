@@ -1,7 +1,7 @@
 ---
 layout: article
 image: /img/7.jpg
-title: Crossing Dimensions: The Future of 3D Printing
+title: Crossing Dimensions - The Future of 3D Printing
 excerpt: "Ever heard the phrase “if you can dream it, you can do it?” 3Doodler’s newest innovation gives that phrase a whole new meaning."
 ---
 
