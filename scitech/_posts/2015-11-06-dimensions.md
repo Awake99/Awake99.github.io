@@ -15,4 +15,5 @@ Ever heard the phrase “if you can dream it, you can do it?” 3Doodler’s new
 The 3Doodler Pro was just released on September 1 of this year for $249. And while the pens may be expensive right now, it won’t be long until you are using your own 3D printing pen to make your dreams reality.
 
 <hr style="border-color:#7D7D7D;height:0.5px;">
+<h6> (Source: ExtremeTech) </h6>
 

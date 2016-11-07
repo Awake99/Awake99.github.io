@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/4.jpg
+image: /img/10.jpg
 title: Fall Reading
 excerpt: "It’s that time of the year again! Halloween approaches. People are going out to buy new costumes; others are going to get new decorations, take out old ones, or make their own. But what is the best part of the month? The candy."
 ---
