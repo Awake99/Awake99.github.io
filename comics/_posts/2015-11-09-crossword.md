@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/5.jpg
+image: /img/18.png
 title: Spooky Anagrams
 excerpt: "Try out this crossword puzzle!"
 ---
