@@ -1,6 +1,6 @@
 ---
 layout: article
-image: /img/7.jpg
+image: /img/7.png
 title: Washcloth's Woes - The Yard
 excerpt: "Something is off about this school. I’m not talking about the undersized hallways or the racetrack of a parking lot surrounding the school. I’m referring to the yard."
 ---
