@@ -1,19 +1,32 @@
 ---
 layout: article
 image: /img/11.png
-title: Giving Thanks to Big Business
-excerpt: "How did Thanksgiving, one of the most honorable American holidays, transform into one of the most crucial money-makers for commercial industry?"
+title: Poetry: Dead or Alive? 
+excerpt: "Before you turn the page scoffing at the word “poetry,” think about how you would feel if someone rolled his or her eyes at your passionate speeches about video games, sports, makeup, calculus, or whatever it may be."
 ---
 
-<h2>Giving Thanks to Big Business</h2>
-<h4>By Aria Narang and Bobby Yalam</h4>
+<h2>Poetry: Dead or Alive? </h2>
+<h4>By Fajr Ahmad</h4>
 
-How did Thanksgiving, one of the most honorable American holidays, transform into one of the most crucial money-makers for commercial industry? Initially meant to celebrate the relations between the Native Americans and the European pilgrims, Thanksgiving has lost its traditional value to the dominance of big business.
+Before you turn the page scoffing at the word “poetry,” think about how you would feel if someone rolled his or her eyes at your passionate speeches about video games, sports, makeup, calculus, or whatever it may be. Perception and subjectivity are part of everything in the world; poetry is no different. Students, especially at BASIS, are exposed to high and overwhelming levels of literature, poetry included, often spurring negative generalizations about the genre as a whole (shout-out to all the fifth graders who (tried to) read Beowulf). Here are some of your peers’ very honest thoughts: 
 
-Four-hundred years ago, the pilgrims and Native Americans set aside their ethnic differences and celebrated the unity of their cultures. Gradually, as industrialization has progressed and money has become more of a priority, Thanksgiving no longer emphasizes the initial feeling of connectedness and family. While the feast has always been a feature of this holiday, the introduction of Black Friday in the mid-1900s demeaned the significance of family, sparking the overbearing focus on materialistic desires. The massive sales on Black Friday overshadow the important cultural festivities of
-Thanksgiving, turning the mood into one driven by social and financial goals. One example of such inappropriate behaviors is when families avoid spending valuable time with each other during Thanksgiving dinner and instead wait to be the first customer at major stores the following day, sacrificing the chance to strengthen emotional connections between loved ones.
+One bespectacled girl sitting in Latebird on a Thursday evening quickly responded with an “I don’t like it.” 
 
-While material possessions provide temporary enjoyment, they pale in comparison to the withstanding memories that could be made sharing a meal with their closest friends and families. Businesses profit by exploiting the fading emotional basis of Thanksgiving, manipulating buyers’ material priorities to sell their products. The contrast between human desire 400 years ago and that of the present materialistic hunger will forever haunt the true emotional impact of Thanksgiving, providing a reason to reflect on one’s holiday decisions concerning family relations.
- 
+Another student complained, “Why do the whole stanza thing? There are so many ways to interpret one thing.” 
+
+“It can be very useful in a very artistic way. I don’t hate it, but I don’t love it,” faculty member Ms. Smith said diplomatically. 
+
+And my personal favorite: “Some poetry is good, but some is, like, meant for 2002...it was cool when Gilmore Girls was cool.”
+
+On the flip side, many people pointed out the positive aspects of poetry and “the whole stanza thing.” 
+
+“Poetry is a lot like fiction, but it doesn’t need as many words to fill; it’s a concise version of any other book with twice the effect,” a friend said. 
+
+One looked into the specifics: “It’s really cool. Slam poetry--people get really into it; the poems have a deeper meaning or a message to convey, and it’s really interesting to see how people can take words and make them inspiring.” 
+
+Many talked about poetry being “a creative way to express yourself” and “an important way to let out your emotions.” Another offered an interesting idea: “It can be really good, but it can be really bad. What if people relate to something so much that it makes them feel worse?" 
+
+Personally, I’ve encountered too many people who have dismissed poetry, likely as some of you did after reading the title’s first word. I’ve noticed that as one’s maturity grows, so does the potential for poetic appreciation. Some, however, have told me that it’s outdated, irrelevant, even. I’m sure the growing wave of teenage Instagram poets and followers of people like Rupi Kaur and Lang Leav would beg to differ. No worries--in the same way that some don’t like the art of placing so much depth in so little words, some don’t like watching people throw around a almond-shaped ball or coming up with physics problems riddled with integrals and equations. Some boats are made of points or equations, but mine is made of words. Whatever floats yours, right? 
+
 <hr style="border-color:#7D7D7D;height:0.5px;">
 
