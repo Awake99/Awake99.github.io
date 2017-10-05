@@ -2,7 +2,7 @@
 layout: article
 image: /img/1.png
 title: "Assassins: It’s All Fun and Games... or is It? "
-excerpt: "Although community service extracurriculars are already beginning at BASIS, by January everyone will be scrambling to meet volunteering hour requirements. To avoid this unnecessary stress, knock out a few hours at a non-profit organization. “Charity of the Month” will expose readers to charities with unique missions that have both local and global impacts."
+excerpt: "For those of you unfamiliar with Junior/Senior Elimination, let us enlighten you. Elimination, more commonly known as Assassin, is a game that ends with only one victor, one monarch to rule them all, hunger- games style. It’s a game that slowly eliminates the weak until only one victorious team comes out alive."
 ---
 
 <h2>Assassins: It’s All Fun and Games... or is It?</h2>
