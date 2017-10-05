@@ -9,6 +9,7 @@ excerpt: "For those of you unfamiliar with Junior/Senior Elimination, let us enl
 <h4>By Nitya Aggarwal and Anya Wahal</h4>
 
 For those of you unfamiliar with Junior/Senior Elimination, let us enlighten you. Elimination, more commonly known as Assassin, is a game that ends with only one victor, one monarch to rule them all, hunger- games style. It’s a game that slowly eliminates the weak until only one victorious team comes out alive. Let us assess the pros and cons of playing, or rather, the “I’ve Always Wanted to Stalk My Friends” side and the “Why Sometimes, Stalking Your Friends May Not Be the Best Idea” side.
+
 <strong>I’ve Always Wanted to Stalk My Friends</strong><br/>
 Let’s get the serious stuff out of the way. In actuality, playing Assassin is a BASIS Scottsdale tradition and an excellent way to send off the seniors before they head to college and never look back again.
 Everyone plays. And it’s the only thing we’ve been talking about for weeks (clarification: the game only started two days before the writing of this article).
