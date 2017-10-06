@@ -8,7 +8,7 @@ excerpt: "Try out this crossword puzzle!"
 <h2>First Month of School</h2>
 <h4>By Vilina Mehta</h4>
 
-<em>Across:</em>
+<strong><em>Across:</em></strong>
 
 3. Crowded, noisy, claustrophobic passages. 
 
@@ -16,7 +16,7 @@ excerpt: "Try out this crossword puzzle!"
 
 7. These opportunities help students get to know colleges better.  
 
-<u>Down:</u>
+<strong><em>Down:</em></strong>
 
 1. This utensil is necessary for taking stan- dardized tests. 
 
