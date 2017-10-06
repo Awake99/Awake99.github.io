@@ -8,37 +8,23 @@ excerpt: "Try out this crossword puzzle!"
 <h2>Siamese Twins</h2>
 <h4>By Trey Connelly</h4>
 
-<u>Across:</u>
+<em>Across:</em>
 
-2. Nuts and _ 
+3. Crowded, noisy, claustrophobic passages. 
 
-5. Safe and _
+6. This spectacle required special glasses and a permission slip to view.
 
-6. Nook and _ 
-
-8. Trial and _ 
-
-9. Rank and _ 
-
-10. Bells and _ 
-
-12. Bread and _
-
-13. Rant and _
+7. These opportunities help students get to know colleges better.  
 
 <u>Down:</u>
 
-1. Null and _ 
+1. This utensil is necessary for taking stan- dardized tests. 
 
-3. Part and _
+2. Junior and senior game.
 
-4. Leaps and _ 
+4. Place where teachers advise phones to be kept during school hours.
 
-7. Bow and _ 
-
-9. First and _ 
-
-11. Loud and _
+5. A teacher’s tool for displaying agendas, teaching lessons, and sharing “Words of Witzdom.”
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>
@@ -52,7 +38,7 @@ $(document).ready(function(){
 
 <button id="show">Click here for the answers!</button>
 
-<h5>Across: 2. Bolts; 5. Sound; 6. Cranny; 8. Error; 9. File; 10. Whistles; 12. Butter; 13. Rave | Down: 1. Void; 3. Parcel; 4. Bounds; 7. Arrow; 9. Foremost; 11. Clear</h5>
+<h5>Across: 3. Hallways; 6. Eclipse; 7. College Visits | Down: 1. Pencil; 2. Assassin; 4. Locker; 5. Whiteboard</h5>
 
 <hr style="border-color:#7D7D7D;height:0.5px;">
 
