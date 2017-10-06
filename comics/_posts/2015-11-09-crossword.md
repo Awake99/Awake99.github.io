@@ -1,12 +1,12 @@
 ---
 layout: article
 image: /img/17.png
-title: Siamese Twins
+title: First Month of School
 excerpt: "Try out this crossword puzzle!"
 ---
 
-<h2>Siamese Twins</h2>
-<h4>By Trey Connelly</h4>
+<h2>First Month of School</h2>
+<h4>By Vilina Mehta</h4>
 
 <em>Across:</em>
 
